@@ -37,6 +37,8 @@ b1.place(x=300,y=280)
 b2=Button(relief=FLAT,borderwidth=5,width=30,bg="BLACK",fg="WHITE",text="QUIT",command=quit)
 b2.place(x=550,y=280)
 
+b3=Button(relief=FLAT,borderwidth=5,width=30,bg="BLACK",fg="WHITE",text="QUIT",command=quit)
+b3.place(x=890,y=460)
 
 
 
